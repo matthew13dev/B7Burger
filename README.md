@@ -1,2 +1,2 @@
 # B7Burger
-LandinPage by B7Web Course
+Landin Page by B7Web Course
